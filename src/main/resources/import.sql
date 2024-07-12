@@ -1,0 +1,18 @@
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Caroline Silva Miranda','123456789-12',4500.00,'1996-09-07',1);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Daniele Freitas','233477987-45',10500.00,'1983-08-05',4);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Andre Luiz Miranda','987123654-78',7500.00,'1990-02-12',3);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Cristina Marques de Pombal','487123987-50',4500.00,'1960-12-07',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Daniel Montenegro','547654987-87',6500.00,'1996-09-07',0);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Kelly Souza','874364699-96',20500.00,'2000-09-07',5);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Renato Muller','654123789-09',14500.00,'1970-05-10',3);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Alberto Wagner Texeira Cruz','356789410-55',34500.00,'1950-11-09',6);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Alessandra Maeda','456789321-65',8000.00,'1995-04-10',4);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Bruno Berdinazzi','871135456-54',3554.00,'1989-10-12',1);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Carlos Alberto Torres Costa','874123654-56',10500.00,'1965-09-07',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Eduardo Ribeiro Costa','541364987-87',40500.00,'1940-03-05',7);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Thaiane Costa','789456120-73',7000.00,'1989-05-10',3);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Rodrigo Pires','456932547-89',50500.00,'1996-09-07',6);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Camila Arca Santos','234569874-87',9750.00,'2000-03-15',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Flavia Texeira','546987123-30',6500.00,'1996-09-07',0);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Juliana Arens','214789321-65',7800.00,'1985-09-07',1);
+INSERT INTO tb_client(name,cpf,income,birth_date,children) VALUES ('Amanda Maeda Ogawa','314658789-65',9850.00,'1999-01-25',0);
